@@ -1,0 +1,31 @@
+h1 {
+    color:blue;
+    background-color: yellow;
+    font-family: sans-serif;
+}
+
+body{
+    margin: 50px 50px 0px 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sansserif;
+    background-color: burlywood;
+}
+
+#comida{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sansserif;
+    
+}
+
+#spagueti {
+    width: 20%;
+    height: 170px;
+    display: flex;
+margin: 0.4%;
+}
+
+#enfrijolada{
+    width: 20%;
+    height: 170px;
+    display: flex;
+    float: left;
+margin: 0.4%;
+}
